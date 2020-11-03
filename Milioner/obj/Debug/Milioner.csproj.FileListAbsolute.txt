@@ -1,0 +1,7 @@
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\bin\Debug\Milioner.exe.config
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\bin\Debug\Milioner.exe
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\bin\Debug\Milioner.pdb
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\obj\Debug\Milioner.csprojAssemblyReference.cache
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\obj\Debug\Milioner.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\obj\Debug\Milioner.exe
+C:\Users\petar\Desktop\ProjektiZaProdaju\Milioner\obj\Debug\Milioner.pdb
